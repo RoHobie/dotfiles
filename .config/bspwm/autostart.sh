@@ -3,7 +3,7 @@
 # Start Polybar
 polybar main &
 # Set wallpaper
-feh --bg-scale ~/Pictures/gojo.jpg
+feh --bg-scale ~/dotfiles/.config/wallpapers/gojo.jpg
 
 # Launch compositor
 picom &
