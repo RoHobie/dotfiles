@@ -12,8 +12,7 @@ A minimal yet aesthetic BSPWM setup powered by:
 ---
 
 ## 📸 Preview
-![rice-preview](wallpapers/my_wallpaper.png)
+<video src="wallpapers/rice.mp4" controls width="600"></video>
 
 ---
 
-## 📂 Folder Structure
